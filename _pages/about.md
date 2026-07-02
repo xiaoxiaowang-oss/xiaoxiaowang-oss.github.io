@@ -16,17 +16,17 @@ I am a Ph.D. student in Management Information Systems at the **Fox School of Bu
 
 ## Working Papers & Publications
 
-* **Can Banning AI-generated Content Save User-Generated Q&A Platforms?** \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750326)\]
+1. **Can Banning AI-generated Content Save User-Generated Q&A Platforms?** \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750326)\]
   * *Platform Governance & Market Design, UGC Ecosystems & Innovation Dynamics*
   * **Co-authors**: Jinyang Zheng
   * **Brief**: Using a natural experiment within the Stack Exchange network, this study investigates the effects of banning AI-generated content on knowledge exchange platforms. Through a generalized synthetic control approach, it reveals the dynamic policy effects on platform vibrancy, showing declines in both the volume and quality of user contributions due to indirect behavioral mechanisms.
     
-* **Beyond the Value for AI Adopters: Analyzing the Impacts of Autonomous Vehicle Testing on Traffic Conditions in California** \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775378)\]
+2. **Beyond the Value for AI Adopters: Analyzing the Impacts of Autonomous Vehicle Testing on Traffic Conditions in California** \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4775378)\]
   * *Societal & Economic Externalities of Tech*
   * **Co-authors**: Yingjie Zhang, Jinyang Zheng
   * **Brief**: This paper assesses the broader societal externalities of autonomous vehicles (AVs) by focusing on their empirical impacts on non-AV road users. Leveraging the California Autonomous Vehicle Tester program, the analysis uncovers how AV public road operations affect adjacent traffic conditions through traffic disruption and behavioral moral hazards among conventional drivers.
     
-* **Is Decentralizing Democratizing? Self-Organization and Unintended Centralization in Decentralized Social Media**
+3. **Is Decentralizing Democratizing? Self-Organization and Unintended Centralization in Decentralized Social Media**
   * *Platform Governance & Market Design, UGC Ecosystems & Innovation Dynamics*
   * **Co-authors**: Xue Bai, Subodha Kumar
   * **Brief**: This work examines whether decentralized social media platforms fulfill their promise to distribute control away from algorithms by studying the "starter packs" curation feature on Bluesky. Utilizing a relational hyperevent model and generalized synthetic control, the findings show that user-driven curation inadvertently reproduces centralization, trading platform-wide discovery for localized engagement.
