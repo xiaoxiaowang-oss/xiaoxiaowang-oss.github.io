@@ -41,5 +41,12 @@ I am a Ph.D. student in Management Information Systems at the **Fox School of Bu
 ## Background
 Before joining Temple University, I earned an M.S. in Economics from **Purdue University** and a B.S. in Statistics from **Fudan University**. 
 
+## <i class="fa fa-fw fa-glasses" aria-hidden="true"></i> Beyond Academics
+
+* <i class="fa fa-fw fa-users" aria-hidden="true"></i> **Community & Connection**: Enjoying meaningful conversations, shared experiences, and exploring historic architecture.
+* <i class="fa fa-fw fa-pen-nib" aria-hidden="true"></i> **Substack & Independent Writing**: Essays and commentary on technology, society, and academia from <a href="https://sameerb.substack.com/">Sameer Borwankar</a> and <a href="https://gonzolabs.xyz/">Gonzo Labs</a>.
+* <i class="fa fa-fw fa-newspaper" aria-hidden="true"></i> **Media & Current Affairs**: Following <a href="https://www.wired.com/">WIRED</a> for technology, business, and public policy.
+* <i class="fa fa-fw fa-book" aria-hidden="true"></i> **Currently Reading**: <em>Nexus: A Brief History of Information Networks from the Stone Age to AI</em> by Yuval Noah Harari.
+
 ## Contact
 Feel free to reach out if you are interested in my research, or want to discuss potential collaborations.
