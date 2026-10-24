@@ -21,7 +21,7 @@ I am a Ph.D. student in Management Information Systems at the **Fox School of Bu
   * **Co-authors**: Yingjie Zhang, Jinyang Zheng
   * **Brief**: This paper assesses the broader societal externalities of autonomous vehicles (AVs) by focusing on their empirical impacts on non-AV road users. Leveraging the California Autonomous Vehicle Tester program, the analysis uncovers how AV public road operations affect adjacent traffic conditions through traffic disruption and behavioral moral hazards among conventional drivers.
     
-3. **Is Decentralizing Democratizing? Self-Organization and Unintended Centralization in Decentralized Social Media** \[[ICIS 2026 Proceedings(https://aisel.aisnet.org/icis2026/social/social/12/)\]]
+3. **Is Decentralizing Democratizing? Self-Organization and Unintended Centralization in Decentralized Social Media** \[[ICIS 2026] Proceedings(https://aisel.aisnet.org/icis2026/social/social/12/)\]
   * *Platform Governance & Market Design, UGC Ecosystems & Innovation Dynamics*
   * **Co-authors**: Xue Bai, Subodha Kumar
   * **Brief**: This work examines whether decentralized social media platforms fulfill their promise to distribute control away from algorithms by studying the "starter packs" curation feature on Bluesky. Utilizing a relational hyperevent model and generalized synthetic control, the findings show that user-driven curation inadvertently reproduces centralization, trading platform-wide discovery for localized engagement.
