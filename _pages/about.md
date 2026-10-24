@@ -11,7 +11,7 @@ I am a Ph.D. student in Management Information Systems at the **Fox School of Bu
 
 ## Working Papers & Publications
 
-1. **Can Banning AI-generated Content Save User-Generated Q&A Platforms?** \[Accepted to appear at Management Science: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750326)\]
+1. **Can Banning AI-generated Content Save User-Generated Q&A Platforms?** \[Accepted at Management Science: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750326)\]
   * *Platform Governance & Market Design, UGC Ecosystems & Innovation Dynamics*
   * **Co-authors**: Jinyang Zheng
   * **Brief**: Using a natural experiment within the Stack Exchange network, this study investigates the effects of banning AI-generated content on knowledge exchange platforms. Through a generalized synthetic control approach, it reveals the dynamic policy effects on platform vibrancy, showing declines in both the volume and quality of user contributions due to indirect behavioral mechanisms.
